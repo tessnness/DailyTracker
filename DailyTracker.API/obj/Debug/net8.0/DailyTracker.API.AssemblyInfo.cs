@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DailyTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d4b53f8d488ad5c9245de7eefda8e0fc1b516a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DailyTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DailyTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NVSC8Vu5xp31C/cbeLU2C6liw2NFEzaLtMSHIjaDTqs=",
+  "Source": "DailyTracker.API",
+  "BasePath": "_content/DailyTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
