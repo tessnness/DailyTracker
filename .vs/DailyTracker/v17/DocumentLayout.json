@@ -3,80 +3,12 @@
   "WorkspaceRootPath": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\repositories\\sqlparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\repositories\\sqlparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\repositories\\sqlitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\repositories\\sqlitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\data\\dailytrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\data\\dailytrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\dto\\trackerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\dto\\trackerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\dto\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\dto\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\dto\\additemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\dto\\additemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\dto\\addparticipantrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\dto\\addparticipantrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\domain\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\domain\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\domain\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\domain\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\models\\domain\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\models\\domain\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\dailytracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\dailytracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\controllers\\trackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\controllers\\trackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Migrations\\20250622102112_FIrstEntryDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DailyTracker.API\\Migrations\\20250622102112_FIrstEntryDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,276 +18,55 @@
       "DocumentGroups": [
         {
           "DockedHeight": 258,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQLParticipantRepository.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Repositories\\SQLParticipantRepository.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Repositories\\SQLParticipantRepository.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Repositories\\SQLParticipantRepository.cs",
-              "RelativeToolTip": "DailyTracker.API\\Repositories\\SQLParticipantRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:14:55.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Program.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Program.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Program.cs",
-              "RelativeToolTip": "DailyTracker.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:15:15.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SQLItemRepository.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Repositories\\SQLItemRepository.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Repositories\\SQLItemRepository.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Repositories\\SQLItemRepository.cs",
-              "RelativeToolTip": "DailyTracker.API\\Repositories\\SQLItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:15:07.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DailyTrackerDbContext.cs",
               "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Data\\DailyTrackerDbContext.cs",
               "RelativeDocumentMoniker": "DailyTracker.API\\Data\\DailyTrackerDbContext.cs",
               "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Data\\DailyTrackerDbContext.cs",
               "RelativeToolTip": "DailyTracker.API\\Data\\DailyTrackerDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:06:20.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\appsettings.json",
-              "RelativeDocumentMoniker": "DailyTracker.API\\appsettings.json",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\appsettings.json",
-              "RelativeToolTip": "DailyTracker.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T14:17:46.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TrackerDto.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\TrackerDto.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\DTO\\TrackerDto.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\TrackerDto.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\DTO\\TrackerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:13:07.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ParticipantDto.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\ParticipantDto.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\DTO\\ParticipantDto.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\ParticipantDto.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\DTO\\ParticipantDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:12:49.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ItemDto.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\ItemDto.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\DTO\\ItemDto.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\ItemDto.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\DTO\\ItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:12:40.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddItemRequestDto.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\AddItemRequestDto.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\DTO\\AddItemRequestDto.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\AddItemRequestDto.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\DTO\\AddItemRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:12:14.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddParticipantRequestDto.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\AddParticipantRequestDto.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\DTO\\AddParticipantRequestDto.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\AddParticipantRequestDto.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\DTO\\AddParticipantRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:11:54.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tracker.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\Domain\\Tracker.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\Domain\\Tracker.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\Domain\\Tracker.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\Domain\\Tracker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:11:13.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\Domain\\Participant.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\Domain\\Participant.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\Domain\\Participant.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\Domain\\Participant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:10:47.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\Domain\\Item.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Models\\Domain\\Item.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\Domain\\Item.cs",
-              "RelativeToolTip": "DailyTracker.API\\Models\\Domain\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:10:30.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:09:16.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ValidateModelAttribute.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "RelativeToolTip": "DailyTracker.API\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:05:12.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DailyTracker.API",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\DailyTracker.API.csproj",
-              "RelativeDocumentMoniker": "DailyTracker.API\\DailyTracker.API.csproj",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\DailyTracker.API.csproj",
-              "RelativeToolTip": "DailyTracker.API\\DailyTracker.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-21T14:04:42.883Z",
+              "WhenOpened": "2025-06-22T09:47:04.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Controllers\\ItemsController.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "DailyTracker.API\\Controllers\\ItemsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:04:01.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ParticipantsController.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\ParticipantsController.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Controllers\\ParticipantsController.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\ParticipantsController.cs",
-              "RelativeToolTip": "DailyTracker.API\\Controllers\\ParticipantsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:03:38.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TrackerController.cs",
-              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\TrackerController.cs",
-              "RelativeDocumentMoniker": "DailyTracker.API\\Controllers\\TrackerController.cs",
-              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\TrackerController.cs",
-              "RelativeToolTip": "DailyTracker.API\\Controllers\\TrackerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:03:17.345Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
           "DockedHeight": 142,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250622102112_FIrstEntryDB.cs",
+              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Migrations\\20250622102112_FIrstEntryDB.cs",
+              "RelativeDocumentMoniker": "DailyTracker.API\\Migrations\\20250622102112_FIrstEntryDB.cs",
+              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Migrations\\20250622102112_FIrstEntryDB.cs",
+              "RelativeToolTip": "DailyTracker.API\\Migrations\\20250622102112_FIrstEntryDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:21:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             }
           ]
         }
