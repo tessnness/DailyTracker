@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "DailyTracker.API.Controllers.TrackerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Tracker",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

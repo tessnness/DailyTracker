@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DailyTrackerDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DailyTrackerConnectionString"))
 );
 
-builder.Services.AddScoped<IItemRepository, SQLItemRepository>();
+builder.Services.AddScoped<ITrackerRepository, SQLTrackerRepository>();
 builder.Services.AddScoped<IParticipantRepository, SQLParticipantRepository>();
 
 builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
