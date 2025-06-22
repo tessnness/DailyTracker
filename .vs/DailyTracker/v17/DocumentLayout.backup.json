@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\controllers\\trackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|solutionrelative:dailytracker.api\\controllers\\trackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Migrations\\20250622154653_FirstTrackerEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DailyTracker.API\\Migrations\\20250622154653_FirstTrackerEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78288644-2C9E-47FD-ACF1-ABF32D0659CF}|DailyTracker.API\\DailyTracker.API.csproj|c:\\work\\z\\dailytracker\\dailytracker\\dailytracker.api\\repositories\\sqltrackerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,28 +34,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 258,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "DailyTracker.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:50:37.482Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TrackerController.cs",
               "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\TrackerController.cs",
               "RelativeDocumentMoniker": "DailyTracker.API\\Controllers\\TrackerController.cs",
               "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Controllers\\TrackerController.cs",
               "RelativeToolTip": "DailyTracker.API\\Controllers\\TrackerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T15:24:58.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ITrackerRepository.cs",
               "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Repositories\\ITrackerRepository.cs",
               "RelativeDocumentMoniker": "DailyTracker.API\\Repositories\\ITrackerRepository.cs",
@@ -60,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SQLTrackerRepository.cs",
               "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Repositories\\SQLTrackerRepository.cs",
               "RelativeDocumentMoniker": "DailyTracker.API\\Repositories\\SQLTrackerRepository.cs",
@@ -73,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TrackerDto.cs",
               "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Models\\DTO\\TrackerDto.cs",
               "RelativeDocumentMoniker": "DailyTracker.API\\Models\\DTO\\TrackerDto.cs",
@@ -88,7 +109,7 @@
         },
         {
           "DockedHeight": 142,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,12 +120,25 @@
               "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250622154653_FirstTrackerEntry.cs",
+              "DocumentMoniker": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Migrations\\20250622154653_FirstTrackerEntry.cs",
+              "RelativeDocumentMoniker": "DailyTracker.API\\Migrations\\20250622154653_FirstTrackerEntry.cs",
+              "ToolTip": "C:\\WORK\\Z\\DailyTracker\\DailyTracker\\DailyTracker.API\\Migrations\\20250622154653_FirstTrackerEntry.cs",
+              "RelativeToolTip": "DailyTracker.API\\Migrations\\20250622154653_FirstTrackerEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:46:53.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
