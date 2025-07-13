@@ -15,14 +15,25 @@ export class TrackerComponent implements OnInit {
 
   trackerService = inject(TrackerService)
   http = inject(HttpClient)
+  trackers: any;
 
 
   constructor() { }
 
-  ngOnInit() {
-    this.trackerService.getTracker().subscribe(r => {
-      console.log(r)
-    })
+  // ngOnInit() {
+  //   this.trackerService.getTracker().subscribe(r => {
+  //     console.log(r)
+  //   })
+  // }
+
+  ngOnInit(): void {
+    this.trackerService.getTracker().subscribe({
+      next: (res: any) => {
+        this.trackers = res;
+        console.log('Trackers:', res);
+      },
+      error: (err) => console.error('API error', err)
+    });
   }
 
 
